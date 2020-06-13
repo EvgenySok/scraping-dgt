@@ -1,0 +1,12 @@
+{
+  "name": "scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^3.3.0"
+  }
+}
